@@ -1,6 +1,10 @@
-# 🎮 Rock Paper Scissors Battle
+# 🎮 Rock Paper Scissors Game
 
-A modern and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
+A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
+
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Play-Live%20Demo-success?style=for-the-badge&logo=netlify)](https://rock-paper-scissors-playground.netlify.app)
 
 
 ## 📌 Features
